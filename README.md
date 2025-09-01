@@ -73,16 +73,3 @@ pip install -r requirements.txt
 python app.py
 ```
 #### Note: This version includes steps to create and activate the Conda environment with Python 3.11.9 0r above, ensuring users set up python environment correctly before installing dependencies and running the application.
-
-
-## 7. Appendix - B
-
-User output example screenshot:
-
-![Screenshot-1](ShopAssist2_ApplicationCode/Images/Conversation-1.png)
-
-
-![Screenshot-2](ShopAssist2_ApplicationCode/Images/Conversation-2.png)
-
-
-![Screenshot-3](ShopAssist2_ApplicationCode/Images/Conversation-11.png)
